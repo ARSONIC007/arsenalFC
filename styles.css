@@ -9,7 +9,7 @@ body {
 
 .pad {
   background-color: #ef0107;
-  min-height: 80vh;
+  min-height: 50vh;
   display: flex;
   padding: 40px 20px;
 }
